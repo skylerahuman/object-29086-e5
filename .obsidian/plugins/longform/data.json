@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "MySciFiNovel/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2026-02-24T05:49:36.603Z",
+      "total": 2466,
+      "drafts": {
+        "MySciFiNovel/Index.md": {
+          "total": 2466,
+          "scenes": {
+            "Request for Additional Funding": 0,
+            "RE, Request for Additional Funding": 0,
+            "RE, RE, Request for Additional Funding": 0,
+            "Log Current 0845": 2466
+          }
+        }
+      }
+    },
+    {
+      "start": "2026-02-24T00:20:45.423Z",
+      "total": 0,
+      "drafts": {
+        "MySciFiNovel/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Request for Additional Funding": 0,
+            "RE, Request for Additional Funding": 0,
+            "RE, RE, Request for Additional Funding": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2026-02-22T05:48:55.019Z",
+      "total": 1393,
+      "drafts": {
+        "MySciFiNovel/Index.md": {
+          "total": 1393,
+          "scenes": {
+            "Request for Additional Funding": 1237,
+            "RE, Request for Additional Funding": 46,
+            "RE, RE, Request for Additional Funding": 110
+          }
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "sceneTemplate": null,
+  "waitForSync": false,
+  "fallbackWaitEnabled": true,
+  "fallbackWaitTime": 5,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}
