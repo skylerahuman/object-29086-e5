@@ -169,5 +169,5 @@ He was quiet for a few moments. I could still make out faint sounds on his end, 
 
 *TitanL1 Editorial Note: Logging information labeled _missing_ in `<think></think>` tags irrecoverable.*
 
-The Throat was an ancient and unique piece of technology. It connects the enormous outer ring of Yosaminus with the inner sanctum. Everyday I have to traverse it with intense precautions to ensure I do not break protocol and injure it. It is my sacred duty as a maintenance worker. I also viewed it as the highlight of my day. Nothing was more enjoyable than preparing to torque the bolt in 724 Alpha. It is why the wrench is so important. Why it's perfection had to be logged in the manifest. This wrench was larger than my hand, and heavy—more than 30 MUOMs—so heavy in fact, that I had a specialized holster which fixed it to my back. I liked to believe I looked like a religious solder with my heavy wrench. One on a crusading journey to overcome the wicked forces of darkness which constantly sought to overthrow our sanctum.
+
 
