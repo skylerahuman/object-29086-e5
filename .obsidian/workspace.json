@@ -200,11 +200,15 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "pseudo-mica:Change material": false
+      "pseudo-mica:Change material": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "ae5eaf9f80760a25",
+  "active": "d28f05eb70ce3f04",
   "lastOpenFiles": [
+    "gemini-scribe/Prompts/example-expert.md",
+    "gemini-scribe/Prompts",
+    "gemini-scribe",
     "concepts/medical/radiation_exposure.md",
     "setting/yosaminus.md",
     "setting/outer_sphere.md",
@@ -230,10 +234,7 @@
     "MySciFiNovel/manuscript.md",
     "MySciFiNovel/Request for Additional Funding.md",
     "setting",
-    "admin",
-    "history/events",
     "Untitled.md",
-    "gemini-scribe/Prompts/example-expert.md",
     "MySciFiNovel/RE, RE, Request for Additional Funding.md",
     "MySciFiNovel/RE, Request for Additional Funding.md",
     "LICENSE.md",
