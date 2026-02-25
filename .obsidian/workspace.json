@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d5449e8990ad7adb",
+        "id": "e9501a2414c4472a",
         "type": "tabs",
         "children": [
           {
-            "id": "1378fae474b42d40",
+            "id": "1e837654999ba6ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "MySciFiNovel/Log Current 0845.md",
-                "mode": "preview",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Log Current 0845"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -104,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the_throat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for the_throat"
+              "title": "Backlinks"
             }
           },
           {
@@ -123,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the_throat.md",
+                "file": "LICENSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from the_throat"
+              "title": "Outgoing links from LICENSE"
             }
           },
           {
@@ -166,17 +165,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the_throat.md",
+                "file": "LICENSE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of the_throat"
+              "title": "Outline of LICENSE"
             }
           },
           {
-            "id": "4b5ada20652106d6",
+            "id": "321c36fc0b2568b8",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -201,51 +200,46 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "pseudo-mica:Change material": false,
-      "gemini-scribe:Gemini Scribe: Agent Mode": false,
-      "large-language-models:Ask a question": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1378fae474b42d40",
+  "active": "1e837654999ba6ab",
   "lastOpenFiles": [
-    "setting/traversing_throat.md",
     "MySciFiNovel/Log Current 0845.md",
-    "MySciFiNovel/manuscript.md",
-    "MySciFiNovel/Request for Additional Funding.md",
-    "setting/the_throat.md",
-    "setting/throat_drive_physics.md",
-    "setting/Throat Drive Physics and Black Hole Operations.md",
-    "history/events/construction.md",
-    "setting/inner_sanctum.md",
-    "concepts/medical/radiation_exposure.md",
-    "gemini-scribe/Prompts/example-expert.md",
-    "gemini-scribe/Prompts",
-    "gemini-scribe",
+    "LICENSE.md",
     "setting/yosaminus.md",
+    "setting/throat_drive_physics.md",
+    "setting/traversing_throat.md",
+    "setting/the_throat.md",
     "setting/outer_sphere.md",
-    "concepts/medical",
+    "setting/inner_sanctum.md",
+    "setting",
     "set_pieces/bolt_724a.md",
     "set_pieces",
-    "setting/Unconfirmed 993743.crdownload",
-    "MySciFiNovel/Index.md",
-    "admin/agent/instructions.md",
-    "admin/outline.md",
+    "history/events/great_convergence.md",
+    "history/events/construction.md",
+    "history/events",
+    "history",
+    "concepts/medical/radiation_exposure.md",
+    "concepts/medical",
+    "concepts",
+    "characters/surt.md",
     "characters/lares.md",
     "characters/maint-9.md",
     "characters/maint-22.md",
-    "characters/surt.md",
-    "history/events/great_convergence.md",
-    "concepts/physics",
-    "concepts/cosmology",
-    "concepts/cs",
-    "concepts",
-    "setting",
-    "Untitled.md",
+    "characters",
+    "admin/agent/instructions.md",
+    "admin/outline.md",
+    "admin/agent",
+    "admin",
+    "README.md",
+    "the_throat.md",
+    "outline.md",
+    "MySciFiNovel/Request for Additional Funding.md",
     "MySciFiNovel/RE, RE, Request for Additional Funding.md",
     "MySciFiNovel/RE, Request for Additional Funding.md",
-    "LICENSE.md"
+    "MySciFiNovel/manuscript.md",
+    "novel-instructions.md",
+    "MySciFiNovel"
   ]
 }
