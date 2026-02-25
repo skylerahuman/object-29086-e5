@@ -11,10 +11,14 @@
             "id": "ae5eaf9f80760a25",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "history/events/construction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "construction"
             }
           }
         ]
@@ -201,19 +205,22 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "pseudo-mica:Change material": false,
-      "gemini-scribe:Gemini Scribe: Agent Mode": false
+      "gemini-scribe:Gemini Scribe: Agent Mode": false,
+      "large-language-models:Ask a question": false
     }
   },
-  "active": "d28f05eb70ce3f04",
+  "active": "ae5eaf9f80760a25",
   "lastOpenFiles": [
+    "setting/the_throat.md",
+    "history/events/construction.md",
+    "setting/inner_sanctum.md",
+    "concepts/medical/radiation_exposure.md",
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Prompts",
     "gemini-scribe",
-    "concepts/medical/radiation_exposure.md",
     "setting/yosaminus.md",
     "setting/outer_sphere.md",
     "concepts/medical",
-    "setting/the_throat.md",
     "set_pieces/bolt_724a.md",
     "set_pieces",
     "MySciFiNovel/Log Current 0845.md",
@@ -226,7 +233,6 @@
     "characters/maint-22.md",
     "characters/surt.md",
     "history/events/great_convergence.md",
-    "setting/inner_sanctum.md",
     "concepts/physics",
     "concepts/cosmology",
     "concepts/cs",

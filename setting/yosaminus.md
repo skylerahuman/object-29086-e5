@@ -50,7 +50,8 @@ The Yosaminus orbits just outside the **Innermost Stable Circular Orbit (ISCO)**
 ## Population Note for Roman Misidentification Scene
 
 Archaeological misread is scientifically defensible:
-- **Pre-industrial urban density** applied to cave/ruin surveys: ~0.010 people/m³ is a reasonable heuristic for multi-story warrens
+
+- **Pre-industrial urban density** applied to cave/ruin surveys: ~0.010 people/m³ is a reasonable heuristic for multi-story warrens
 - Applied to 2 billion m³ of Throat zone → ~20 million estimated inhabitants
 - Actual inner sanctum at 300–400 m radius: volume ~113–268 million m³ → 3,000–7,000 people at comfortable habitation density
 - The Throat zone is structurally complex enough post-decay to read as collapsed multi-story architecture — armature skeletons of 600,000 tube housings would look like building frames
