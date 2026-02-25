@@ -184,4 +184,100 @@ The bolt. It flashed in my mind. Titanium. 1.2m long. 80mm threads. Backing out 
 
 12 steps. I pause and reach my right hand out, grasping something soft and rubbery. I squeeze. It makes a squishing sound in my fist. Perfect. I am right on time. I drop to one knee and take a deep breath. I feel the floor of The Throat open beneath my knee and stabilize my feet. The ceiling contracts and brushes against my hair, ruffling it. The wall bumps into my shoulders. I can feel it touching all of me as it races past my body. The walls recede. I stand. Descent continues.
 
-My childhood. I sometimes let my mind wander. Was I a good son? Did my parents love me? I'd assume they did. My performance reviews are consistently positive. Why would my parents not love me? Yes, that made the most sense. They'd sent me here to rescue me from the trials of a second rate job. To do something pivotal. Something important. They wanted me to matter. They must've been religious to have pushed me into such a high calling as a maint-crew member. Or very powerful. My understanding from Lares was that, "Of the crew of 6,782 aboard Yosaminus, you are the finest Surt!" A whole universe of people and I was one of the 6,782 fortunate enough to operate the Yosaminus. I'd asked Lares the population of the universe once. 7 centuries ago it was 1.849 trillion crew-eligible personnel. Assuming a moderate increase, and consistent expansion, which I'd previously had Lares confirm at 2x per century, that was 236 trillion crew-eligible personnel today. Conservatively, I estimate 30% are crew eligible. 788 trillion total people in the universe. I'll round to `8 X 10^14`. Probability I work on Yosaminus by accident: 1 in `8.48 X 10^-13`. Lares has told me that the probability of life in the universe is `1.25 X 10^-6`. I confirmed his math. It is 1,474,000 times less likely than life I wound up on Yosaminus by accident. Fascinating. My parents did love me. They wanted me to be important.
+My childhood. I sometimes let my mind wander. Was I a good son? Did my parents love me? I'd assume they did. My performance reviews are consistently positive. Why would my parents not love me? Yes, that made the most sense. They'd sent me here to rescue me from the trials of a second rate job. To do something pivotal. Something important. They wanted me to matter. They must've been religious to have pushed me into such a high calling as a maint-crew member. Or very powerful. My understanding from Lares was that, "Of the crew of 6,782 aboard Yosaminus, you are the finest Surt!" A whole universe of people and I was one of the 6,782 fortunate enough to operate the Yosaminus. I'd asked Lares the population of the universe once. 7 centuries ago it was 1.849 trillion crew-eligible personnel. Assuming a moderate increase, and consistent expansion, which I'd previously had Lares confirm at 2x per century, that was 236 trillion crew-eligible personnel today. Conservatively, I estimate 30% are crew eligible. 788 trillion total people in the universe. I'll round to `8 X 10^14`. Probability I work on Yosaminus by accident: 1 in `8.48 X 10^-13`. Lares has told me that the probability of life in the universe is `1.25 X 10^-6`. I confirmed his math. It is 1,474,000 times less likely than life I wound up on Yosaminus by accident. Fascinating.
+
+```bash
+[SEC:08.994.317 :: MSC:114.0] My parents did love me. They wanted me to be important.
+```
+
+I pause. Shoulder posture not-nominal. Gravity shift detected. Slight downward pull. Perspiratory event around eyes. Mild nasal congestion. Throat structure feels—loose? Unexpected temperature increase. I flinch. Something is wrong. I wait. It passes. Shoulder posture confirmed. Nominal. False positive on gravity shift. I wipe my eyes on the shirt sleeve. Just sweat. No cause for alarm. 
+
+```bash
+[SEC:08.995.884 :: MSC:114.0] Perspiratory event detected. All systems nominal. Descent continues.
+```
+
+I have covered exactly 38 steps. 22.04 MUs. I was 2.8-1.3% of the way to the bolt. The Throat was anywhere from 720 to 1660 MUs depending on the structural changes necessary to support the weight of the inner sanctum. It was a single unbroken 14° arc regardless of the length. The math on this was more complicated than I will log. If I had a light, I could see where the ceiling dipped below the floor in roughly 12 MUs. 
+
+I do not have a light. 
+
+I look down. A thin band of the floor glows with a faint molten amber-chrome color. Like irradiated tallow. The accretion disk. I am safe. It is millions of miles away. If not for the throat, I would be spaghetti. I doubt I'd perceive it at all. I would be the minor component's latest meal. This is imprecise. Julienned would be the more accurate term for the force procedures involved. I could be more precise. I am falling. We are falling. The orbital velocity maintains a constant tidal gradient. If we weren't moving so fast sideways, we would be the minor components latest meal.
+
+Wait, no. I don't think that's how the math works out. I wonder why I've never considered this. Not getting eaten should be high on my list of priorities, yet I've always assumed the math to be correct. I don't think it is. I am 1.03 MUs. UJ287's minor component is small—3.0111 X 10^11. The ISCO is twice that. We orbit at 1.1x the ISCO. That works out to a tidal differential of only 2.077 X 10-6. Hmm. I don't think a single strand of hair exerts that much force on my head. My earlier statement was incorrect. I would not be spaghettified or julienned. I would not be anything. It would feel like a single hair falling form my head. Well, it wouldn't feel like anything. I would be dead from the vacuum of space before this all occurred.
+
+I realize I'm being sloppy. I need to be more self-aware. I think it was my conversation with Maint-22. He mentioned my predecessor being similar. I believe he was looking out for me. Predecessor. No, he realized I was off my game today, and wanted to warn me. Excellent catch. I check the zippers on my shoes. Snug and pulled to the top. I adjust the legs of the suit. Sealed properly. My wrench is fastened to my back securely. The data link is still fastened to my collar. I pull my gloves and rebreather out from my waist bag. No holes. My goggles are still firmly pressed to my forehead. No cracks. My suit is nominal.
+
+I perform a mental checklist. Am I in the right headspace to continue? Maint-17 turned 389 without a single variance flagged. I have read his work many times. Maint-11 turned 198. He filed an empty final log. Maint-19 turned 231. Commended for being a "continued bright spot in the sector." Maint-15 turned 247—with a broken wrist for 41 turns. 
+
+I wince.
+
+Maint-10 turned 241. He advocated for a new wrench from day 18 on. Maint-18 turned 203. His mid-entry dropout on day 128 remains unexplained. Maint-16 turned 312. He did the last 18 without a rebreather. Maint-12—331. I, Maint-14, would be completing the 2,223rd successful turn. My headspace was right. I will thank Maint-22 for his attentiveness tomorrow.
+
+```bash
+[SEC:09.000.082 :: MSC:114.0] Checkpoint Omega 1
+```
+
+228 steps. I will see her in a few more steps. Yosaminus. I needed to prepare myself. I am in the right mind to talk to her, but I need to choose my words carefully. She will not tolerate imperfection. I did enjoy speaking with her. It helped me get the previous weight off my chest. But it was not easy.
+
+A faint orange glow began to radiate down the hall. It was unique from the banding I'd see rotate past on the floor. It came from within. It was her. An orange, angelic glow. I could make her out now, slightly below eye level. She wasn't awake yet. My footsteps would trigger her auditory receptor and she would light up at my presence. As if on queue, 252nd step landed and she came alive.
+
+"Good morning, operator! How are you doing this morning," she spoke in a soothing tone.
+
+"Good." I needed to be brief, or I'd tip her off and would not be permitted entry to the bolt.
+
+"Excellent to hear, operator. What is your identification number?"
+
+"14." I know better than to give any more information than what she'd asked.
+
+"Thank you. One moment, while I look that up."
+
+A set of ellipsis filled the screen in front of my eyes. The left most one would jump over the middle two in an animation made to look like a child's game. I suppose it was more entertaining to watch than a blank screen. They could just skip asking our numbers altogether. It was a redundant security precaution. I didn't even know why it was there.
+
+"Thank you for your patience, operator." The ellipsis vanished. An animated woman, mid 30s appeared. It was supposed to be the woman I heard over the intercom. She idly swayed. The designers had not bothered to animate her speech patterns or synchronize her communication. It was horribly jarring for me to maintain eye contact. I looked down.
+
+"Having established proper keyring management, we can proceed. Operator, what is the current tube diameter where you are standing?" She spoke with a brisk certainty.
+
+"1 MU."
+
+"One point zero measurement units. Is that correct?"
+
+"Yes," I respond to the ground. Her auditory receptor was globally accessible in this room. I could speak anything in any direction and she'd hear it.
+
+"Thank you, operator. Operator, what is the height of the tube at the beginning today."
+
+This is the part of the checkpoint that got fuzzy. I knew the height of the beginning was 1.8 MUs. I'd measured it a few times already, and it had been logged thousands. The issue was not the height. The issue was responding. For some reason, she always misunderstood the "*point-eight*". I'd tried a few variations, and settled on trying an alternative solution today.
+
+"One point seven plus point one." This should outsmart Yosaminus.
+
+"One point seven measurement units. Is that correct?" Great. She still got it wrong. I would need to try harder tomorrow. I suppose this will be fine for another day.
+
+"Yes."
+
+"Thank you, operator. Operator, what is the temperature in the tube today."
+
+Oh no. The temperature reading. Earlier, I'd logged a temperature anomaly. If I reported something different now, surely it would be flagged and hinder my next performance review. I needed to think. The average was 18.2°C, so it would be close to that.
+
+"Twenty two point four degrees centigrade." That seemed close enough.
+
+"Twenty two point four degrees centigrade. Is that correct?" I hope so.
+
+"Yes."
+
+"Thank you, operator. Operator, current temperature in the tube at the temperature probe is 19.1°C. Please issue an explanation for the temperature deviation." I'd made a terrible mistake. I never made mistakes. This would be flagged and I would face consequences. This was not good. What had I done.
+
+"The spike was longer than usual."
+
+"The spike was longer than usual." My voice came back through the intercom. It sounded like it had been fed through a meat grinder, but I could still make out the words. I don't know if this was accurate. I made a mistake, and it would cost me. I would proactively reach out to Evelst to let him know. Perhaps this could redeem my performance.
+
+"Operator, is that correct?" I'd missed it the first time as I zoned out. My armpits were wet.
+
+"Yes."
+
+"Thank you, operator. Operator, what is your reason for traversing the tube today?"
+
+"Perform maintenance tasks on bolt 724 Alpha."
+
+"I heard 'maintenance'. Operator, is that correct?"
+
+"Yes."
+
+"Thank you, operator." 

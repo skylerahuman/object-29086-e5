@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e9501a2414c4472a",
+        "id": "3897790cd2d71775",
         "type": "tabs",
         "children": [
           {
-            "id": "1e837654999ba6ab",
+            "id": "a50c437ec34a3dd7",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "MySciFiNovel/Log Current 0845.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Log Current 0845"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "521d896cdc8a96fd",
@@ -104,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MySciFiNovel/Log Current 0845.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Log Current 0845"
             }
           },
           {
@@ -200,16 +202,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1e837654999ba6ab",
+  "active": "a50c437ec34a3dd7",
   "lastOpenFiles": [
+    "setting/traversing_throat.md",
     "MySciFiNovel/Log Current 0845.md",
+    "concepts/unit_of_measures/MUs.md",
+    "Excalidraw/Drawing 2026-02-25 13.06.46.excalidraw.md",
+    "Excalidraw",
+    "concepts/unit_of_measures",
+    "setting/throat_drive_physics.md",
     "LICENSE.md",
     "setting/yosaminus.md",
-    "setting/throat_drive_physics.md",
-    "setting/traversing_throat.md",
     "setting/the_throat.md",
     "setting/outer_sphere.md",
     "setting/inner_sanctum.md",
@@ -231,15 +238,11 @@
     "admin/agent/instructions.md",
     "admin/outline.md",
     "admin/agent",
-    "admin",
     "README.md",
     "the_throat.md",
     "outline.md",
     "MySciFiNovel/Request for Additional Funding.md",
     "MySciFiNovel/RE, RE, Request for Additional Funding.md",
-    "MySciFiNovel/RE, Request for Additional Funding.md",
-    "MySciFiNovel/manuscript.md",
-    "novel-instructions.md",
-    "MySciFiNovel"
+    "MySciFiNovel/RE, Request for Additional Funding.md"
   ]
 }

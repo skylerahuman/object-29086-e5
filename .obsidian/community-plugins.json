@@ -1,12 +1,5 @@
 [
   "longform",
   "obsidian-git",
-  "note-refactor-obsidian",
-  "obsidian-pandoc",
-  "obsidian-kanban",
-  "dataview",
-  "obsidian-excalidraw-plugin",
-  "typewriter-mode",
-  "obsidian-dialogue-plugin",
-  "pseudo-mica"
+  "obsidian-excalidraw-plugin"
 ]
