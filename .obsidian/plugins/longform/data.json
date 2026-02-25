@@ -7,15 +7,15 @@
   "sessions": [
     {
       "start": "2026-02-25T17:14:41.883Z",
-      "total": 2163,
+      "total": 2185,
       "drafts": {
         "MySciFiNovel/Index.md": {
-          "total": 2163,
+          "total": 2185,
           "scenes": {
             "Request for Additional Funding": 0,
             "RE, Request for Additional Funding": 0,
             "RE, RE, Request for Additional Funding": 0,
-            "Log Current 0845": 2163
+            "Log Current 0845": 2185
           }
         }
       }
@@ -66,8 +66,8 @@
   ],
   "showWordCountInStatusBar": true,
   "startNewSessionEachDay": true,
-  "sessionGoal": 500,
-  "applyGoalTo": "all",
+  "sessionGoal": 5000,
+  "applyGoalTo": "project",
   "notifyOnGoal": true,
   "countDeletionsForGoal": false,
   "keepSessionCount": 30,
