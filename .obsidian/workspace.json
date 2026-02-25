@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "history/events/construction.md",
+                "file": "MySciFiNovel/Log Current 0845.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "construction"
+              "title": "Log Current 0845"
             }
           }
         ]
@@ -212,6 +212,8 @@
   "active": "ae5eaf9f80760a25",
   "lastOpenFiles": [
     "setting/the_throat.md",
+    "setting/throat_drive_physics.md",
+    "setting/Throat Drive Physics and Black Hole Operations.md",
     "history/events/construction.md",
     "setting/inner_sanctum.md",
     "concepts/medical/radiation_exposure.md",
