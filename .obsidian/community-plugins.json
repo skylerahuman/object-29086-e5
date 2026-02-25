@@ -1,4 +1,12 @@
 [
   "longform",
-  "obsidian-git"
+  "obsidian-git",
+  "note-refactor-obsidian",
+  "obsidian-pandoc",
+  "obsidian-kanban",
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "typewriter-mode",
+  "obsidian-languagetool-plugin",
+  "obsidian-dialogue-plugin"
 ]

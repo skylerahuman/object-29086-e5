@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the_throat.md",
+                "file": "lares_character.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the_throat"
+              "title": "lares_character.md"
             }
           }
         ]
@@ -174,13 +174,23 @@
               "icon": "lucide-list",
               "title": "Outline of the_throat"
             }
+          },
+          {
+            "id": "4b5ada20652106d6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,23 +201,28 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "gemini-scribe:Gemini Scribe: Agent Mode": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "1e837654999ba6ab",
   "lastOpenFiles": [
+    "gemini-scribe/Prompts/example-expert.md",
+    "lares_character.md.md",
     "MySciFiNovel/Log Current 0845.md",
-    "the_throat.md",
-    "outline.md",
-    "MySciFiNovel/Request for Additional Funding.md",
     "MySciFiNovel/RE, RE, Request for Additional Funding.md",
     "MySciFiNovel/RE, Request for Additional Funding.md",
+    "MySciFiNovel/Request for Additional Funding.md",
     "MySciFiNovel/manuscript.md",
+    "the_throat.md",
+    "outline.md",
     "novel-instructions.md",
+    "LICENSE.md",
+    "README.md",
     "MySciFiNovel/Index.md",
     "MySciFiNovel",
     "Untitled.base",
-    "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Prompts",
     "gemini-scribe"
   ]
