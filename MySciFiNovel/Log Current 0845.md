@@ -278,8 +278,44 @@ Oh no. The temperature reading. Earlier, I'd logged a temperature anomaly. If I 
 
 "Perform maintenance tasks on bolt 724 Alpha."
 
-"I heard 'maintenance'. Operator, is that correct?"
+"I heard 'maintenance'. Operator, is that correct?" A severe understatement of the task at hand. It was unjust to abbreviate such an important work. Nominal behavior from Yosaminus.
 
 "Yes."
 
-"Thank you, operator." 
+"Thank you, operator. The task 'maintenance' is permitted for the section 'seven dash two dash four alpha.'. You have been granted permission to proceed following completion of normal safety protocols. Operator, what is the current MR fluid accumulation level?"
+
+"0.05 MUs." Likely. I have to guess. It's on the other side of the door Yosaminus was blocking me from entering. In 50 MUs, it'd be ankle height. In 100 MUs, it'd be 0.1 MUs, and becoming uncomfortable.
+
+"Zero point five measurement units. Operator, is that correct?" No. She missed the leading 0. I would need to leave it. I was falling behind schedule.
+
+"Yes."
+
+"Thank you, operator. Operator, what is the current dosimeter tick rate?" I'd been ignoring it for the last 10 minutes. I needed to check it now. It would be another 10 minutes before I'd gotten it out of my head again.
+
+"Uhm." Listening to the ticks. 2 ticks per second. Maybe 3. "1Hz."
+
+"Uhm is not an acceptable unit of measurement nor a known measure. Operator, what is the current dosimeter tick rate?"
+
+"1Hz."
+
+"One hertz. Operator, is that correct?"
+
+"Yes."
+
+"Thank you, operator. Operator, what is the QPO sub-harmonic frequency reading?"
+
+"2.974Hz." I'd checked this earlier. It wouldn't have changed in 5 minutes. No reason to check again.
+
+"Two point —" static. Yosaminus was silent for 8.8s.
+
+"Three hertz. Operator, is that correct?" This challenge was for the best. A strengthening of my mind. Preparation for the bolt. Many before me had faced it.
+
+"Yes."
+
+"Thank you, operator. Operator, what is your wellness rating today? Answer on a scale of one to five."
+
+"5."
+
+"Acknowledged. Thank you for your cooperation, operator. Please proceed."
+
+I heard a clicking sound. The screen went blank. The room was replaced with that faint amber glow from earlier. The screen could not be disabled.
